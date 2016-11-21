@@ -1,1 +1,7 @@
 # go_terms
+
+Simple script to retrieve data from GO terms in a list.
+
+Input: 
+- File with a list of GO identifiers.
+- File with GO data (OBO format file, downloadable from http://www.geneontology.org/page/download-ontology (2016-11-21))
